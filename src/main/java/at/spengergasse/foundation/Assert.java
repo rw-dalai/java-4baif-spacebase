@@ -4,6 +4,13 @@ import at.spengergasse.ApplicationException;
 
 import java.util.function.Supplier;
 
+
+/**
+ * Assertion utility class that assists in validating arguments.
+ *
+ * We wil use it for ints, longs, Strings, Objects, Collections, etc.
+ */
+
 public abstract class Assert {
 
 
